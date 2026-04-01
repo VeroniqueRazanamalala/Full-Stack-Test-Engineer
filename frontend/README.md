@@ -71,3 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+
+<!-- Rapport de couverture  -->
+![alt text](image.png)
+<!-- - Rapport de performance (k6). -->
+![alt text](image-1.png)
