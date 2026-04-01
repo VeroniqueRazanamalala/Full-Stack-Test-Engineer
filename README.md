@@ -52,6 +52,6 @@ Pour tester les fonctionnalités sécurisées (Modification, Validation, Suppres
 
 
 <!-- Rapport de couverture  -->
-![alt text](image.png)
+![alt text](image.PNG)
 <!-- - Rapport de performance (k6). -->
-![alt text](image-1.png)
+![alt text](image-1.PNG)
