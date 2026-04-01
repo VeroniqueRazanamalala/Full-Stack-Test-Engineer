@@ -16,3 +16,4 @@ EXPOSE 3000
 
 CMD ["npx", "ts-node", "server.ts"]
 
+
