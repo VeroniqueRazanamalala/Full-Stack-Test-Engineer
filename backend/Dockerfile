@@ -14,4 +14,5 @@ RUN npm run type-check
 EXPOSE 3000
 
 
-CMD ["npm", "run", "dev"]
+CMD ["npx", "ts-node", "server.ts"]
+
