@@ -48,3 +48,10 @@ Le projet est prêt pour la production via **Docker Compose**.
 Pour tester les fonctionnalités sécurisées (Modification, Validation, Suppression) :
 - **Email** : `admin@test.com`
 - **Mot de passe** : `admin123`
+
+
+
+<!-- Rapport de couverture  -->
+![alt text](image.png)
+<!-- - Rapport de performance (k6). -->
+![alt text](image-1.png)
