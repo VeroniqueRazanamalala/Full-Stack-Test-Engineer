@@ -50,8 +50,10 @@ Pour tester les fonctionnalités sécurisées (Modification, Validation, Suppres
 - **Mot de passe** : `admin123`
 
 
+###  Rapport de couverture 
 
-<!-- Rapport de couverture  -->
 ![alt text](image.PNG)
-<!-- - Rapport de performance (k6). -->
+
+###  Rapport de performance (k6)
+
 ![alt text](image-1.PNG)
