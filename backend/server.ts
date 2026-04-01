@@ -5,6 +5,7 @@ import dotenv from 'dotenv';
 import candidateRoutes from './routes/candidateRoutes'; 
 import rateLimit from 'express-rate-limit';
 import authRoutes from './routes/authRoutes';
+
 dotenv.config();
 const app = express();
 app.use(cors());
