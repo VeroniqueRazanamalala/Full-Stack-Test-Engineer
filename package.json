@@ -1,11 +1,12 @@
 {
-  "name": "fullstack-test-engineer",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "server.ts", 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install"
+    "start": "ts-node server.ts",
+    "dev": "ts-node-dev server.ts",
+    "test": "jest --coverage",
+    "type-check": "tsc --noEmit"
   },
   "keywords": [],
   "author": "",
