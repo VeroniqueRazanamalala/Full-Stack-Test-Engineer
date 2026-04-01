@@ -4,9 +4,10 @@
   "type": "commonjs",
   "description": "",
   "main": "index.js",
-  "scripts": {
+ "scripts": {
+    "start": "ts-node server.ts",
+    "dev": "ts-node-dev server.ts",
     "test": "jest --coverage",
-    "dev": "ts-node-dev index.js",
     "prepare": "husky install",
     "lint": "eslint .",
     "type-check": "tsc --noEmit"
