@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
  "scripts": {
-    "start": "ts-node server.ts",
+    "start": "node --max-old-space-size=450 ./node_modules/.bin/ts-node server.ts",
     "dev": "ts-node-dev server.ts",
     "test": "jest --coverage",
     "prepare": "husky install",
